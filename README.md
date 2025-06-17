@@ -123,7 +123,13 @@ Imagine you are a [1] **data analyst**. You have been given a [2] **dataset abou
 | [3] |
 | [4] |
 
-                                              Table 1. Prompt analysis Part 1
+Table 1. Prompt analysis Part 1
+
+---
+
+Here is a BAD example of prompt engineering by Bob, a student who wants to write a research paper about the pros and cons of working from home in 2024: 
+
+                                          *Write something about work from home*.
 
 
 
