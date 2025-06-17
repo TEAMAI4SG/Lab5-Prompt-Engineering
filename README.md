@@ -64,7 +64,7 @@ Here is a sample prompt for a financial analysis of 2024 cryptocurrency trends:
 
 Let's delve deeper into this prompt’s construction to find where various prompt techniques have been utilized for a more precise response.
 
-
+<div style="text-align: center;">
 <table style="border-collapse: collapse; width: 100%; font-family: Arial, sans-serif;">
   <thead>
     <tr>
@@ -75,7 +75,7 @@ Let's delve deeper into this prompt’s construction to find where various promp
   <tbody>
     <tr>
       <td>
-        Prepare a brief report [1] <strong>as a financial analyst</strong>, focusing on the [2] <strong>market trends from Q1 2024</strong>.
+        Prepare a brief report [1] <strong>as a financial analyst</strong>, focusing on the cryptocurrency [2] <strong>market trends from Q1 2024</strong>.
       </td>
       <td style="border-left: 1px solid #000;">
         <strong>1—Role.</strong> Position yourself as a financial analyst for a professional analysis.<br>
@@ -110,6 +110,11 @@ Let's delve deeper into this prompt’s construction to find where various promp
     </tr>
   </tbody>
 </table>
+</div>
+
+By dissecting this prompt, we can better understand how each component contributes to creating a clear, focused, and effective request for AI-generated content. Remember, the quality of the input significantly influences the quality of the output.
+
+Now it’s your turn! Please analyze the following prompt by identifying the prompt technique being used at each bracketed number in Table 1. Identify which of the FACTOR element(s) are used and elaborate.
 
 
 
