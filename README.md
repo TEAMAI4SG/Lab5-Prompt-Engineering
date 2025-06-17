@@ -116,19 +116,15 @@ Now it’s your turn! Please analyze the following prompt by identifying the pro
 
 Imagine you are a [1] **data analyst**. You have been given a [2] **dataset about the recent trends in renewable energy adoption across various countries**. Your [3] **task is to identify the top three countries with the highest increase in solar energy usage over the last five years**. Please present the findings in a [4] **concise bullet-point list**, using the data provided.
 
-<table style="width: 100%; border: 1px solid black; border-collapse: collapse; font-family: Arial; margin: auto;">
-  <tr>
-    <td style="border: 1px solid black; padding: 20px;">
-     [1]
-      <div style="width: 100%; height: 0; overflow: hidden;">
-       <span style="opacity:0;">....................................................................................................................................................................................................</span>
-        </div>
-      </td>
-    </tr>
-    <tr><td style="border: 1px solid black; padding: 20px;">[2]</td></tr>
-    <tr><td style="border: 1px solid black; padding: 20px;">[3]</td></tr>
-    <tr><td style="border: 1px solid black; padding: 20px;">[4]</td></tr>
+<div style="text-align: center; margin-top: 20px;">
+  <table style="width: 100%; border: 1px solid black; border-collapse: collapse; font-family: Arial; margin: auto;">
+    <tr><td style="border: 1px solid black; padding: 20px;"><strong>[1]</strong></td></tr>
+    <tr><td style="border: 1px solid black; padding: 20px;"><strong>[2]</strong></td></tr>
+    <tr><td style="border: 1px solid black; padding: 20px;"><strong>[3]</strong></td></tr>
+    <tr><td style="border: 1px solid black; padding: 20px;"><strong>[4]</strong></td></tr>
   </table>
+</div>
+
 
 
 
