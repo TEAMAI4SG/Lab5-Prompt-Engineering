@@ -60,7 +60,7 @@ Here are some basic prompt engineering techniques **(FACTORS)**:
 
 Here is a sample prompt for a financial analysis of 2024 cryptocurrency trends:
 
-|*Prepare a brief report as a financial analyst, focusing on the cryptocurrency market trends from Q1 2024. List the top 5 investment risks and opportunities, ensuring to omit legal considerations. The response should be in a bullet-point format suitable for an investment strategy meeting. For example, you might start with 'Risk: Volatility – Cryptocurrencies have shown significant price fluctuations...'*|
+| *Prepare a brief report as a financial analyst, focusing on the cryptocurrency market trends from Q1 2024. List the top 5 investment risks and opportunities, ensuring to omit legal considerations. The response should be in a bullet-point format suitable for an investment strategy meeting. For example, you might start with 'Risk: Volatility – Cryptocurrencies have shown significant price fluctuations...'* |
 
 
 
