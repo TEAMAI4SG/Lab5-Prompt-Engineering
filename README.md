@@ -118,10 +118,10 @@ Imagine you are a [1] **data analyst**. You have been given a [2] **dataset abou
 
 <div style="text-align: center; margin-top: 20px;">
   <table style="width: 100%; border: 1px solid black; border-collapse: collapse; font-family: Arial; margin: auto;">
-    <tr><td style="border: 1px solid black; padding: 12px;">[1]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
-    <tr><td style="border: 1px solid black; padding: 12px;">[2]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
-    <tr><td style="border: 1px solid black; padding: 12px;">[3]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
-    <tr><td style="border: 1px solid black; padding: 12px;">[4]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
+    <tr><td style="border: 1px solid black; padding: 12px;">[1]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
+    <tr><td style="border: 1px solid black; padding: 12px;">[2]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
+    <tr><td style="border: 1px solid black; padding: 12px;">[3]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
+    <tr><td style="border: 1px solid black; padding: 12px;">[4]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
   </table>
   <div style="margin-top: 10px; font-weight: bold;">Table 1. Prompt analysis Part 1</div>
 </div>
