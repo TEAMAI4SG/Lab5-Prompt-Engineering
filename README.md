@@ -64,7 +64,6 @@ Here is a sample prompt for a financial analysis of 2024 cryptocurrency trends:
 
 Let's delve deeper into this prompt’s construction to find where various prompt techniques have been utilized for a more precise response.
 
-<div style="text-align: center;">
 <table style="border-collapse: collapse; width: 100%; font-family: Arial, sans-serif;">
   <thead>
     <tr>
@@ -110,7 +109,6 @@ Let's delve deeper into this prompt’s construction to find where various promp
     </tr>
   </tbody>
 </table>
-</div>
 
 By dissecting this prompt, we can better understand how each component contributes to creating a clear, focused, and effective request for AI-generated content. Remember, the quality of the input significantly influences the quality of the output.
 
