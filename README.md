@@ -121,7 +121,9 @@ Imagine you are a [1] **data analyst**. You have been given a [2] **dataset abou
     <tr>
       <td style="border: 1px solid black; padding: 20px;">
         [1]
-        <div style="width: 100%; height: 0; overflow: hidden;">&nbsp;</div>
+        <div style="width: 100%; height: 0; overflow: hidden;">
+          <span style="opacity: 0;">....................................................................................................................................................................................................</span>
+        </div>
       </td>
     </tr>
     <tr><td style="border: 1px solid black; padding: 20px;">[2]</td></tr>
@@ -130,6 +132,7 @@ Imagine you are a [1] **data analyst**. You have been given a [2] **dataset abou
   </table>
   <div style="margin-top: 10px; font-weight: bold;">Table 1. Prompt analysis Part 1</div>
 </div>
+
 
 
 
