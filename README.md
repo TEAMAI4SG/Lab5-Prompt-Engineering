@@ -121,7 +121,7 @@ Imagine you are a [1] **data analyst**. You have been given a [2] **dataset abou
     <tr>
       <td style="border: 1px solid black; padding: 20px;">
         [1]
-        <div style="width: 100%; height: 0; visibility: hidden;">....................................................................................................................................................................................................</div>
+        <div style="width: 100%; height: 0; overflow: hidden;">&nbsp;</div>
       </td>
     </tr>
     <tr><td style="border: 1px solid black; padding: 20px;">[2]</td></tr>
