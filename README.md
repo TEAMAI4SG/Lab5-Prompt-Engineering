@@ -80,7 +80,6 @@ Let's delve deeper into this prompt’s construction to find where various promp
       <td style="border-left: 1px solid #000;">
         <strong>1—Role.</strong> Position yourself as a financial analyst for a professional analysis.<br>
         <strong>2—Context.</strong> Focus on the cryptocurrency market trends for the specified quarter.<br>
-        <strong>3—Action Words.</strong> Utilize dynamic verbs to delineate the investment risks/opportunities clearly.
       </td>
     </tr>
     <tr>
@@ -88,6 +87,7 @@ Let's delve deeper into this prompt’s construction to find where various promp
         [3] <strong>List</strong> the top 5 investment risks and opportunities, [4] <strong>ensuring to omit legal considerations</strong>.
       </td>
       <td style="border-left: 1px solid #000;">
+        <strong>3—Action Words.</strong> Utilize dynamic verbs to delineate the investment risks/opportunities clearly.
         <strong>4—Specific Items to Avoid.</strong> Omit any legal considerations from the outputted analysis.
       </td>
     </tr>
