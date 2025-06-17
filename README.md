@@ -123,6 +123,11 @@ Imagine you are a [1] **data analyst**. You have been given a [2] **dataset abou
 | [3] |
 | [4] |
 
+                                              Table 1. Prompt analysis Part 1
+
+
+
+
 
 
 
