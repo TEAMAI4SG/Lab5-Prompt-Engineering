@@ -114,5 +114,10 @@ By dissecting this prompt, we can better understand how each component contribut
 
 Now it’s your turn! Please analyze the following prompt by identifying the prompt technique being used at each bracketed number in Table 1. Identify which of the FACTOR element(s) are used and elaborate.
 
+<div style="text-align: center;">
+  Imagine you are a [1] <strong>data analyst</strong>. You have been given a [2] <strong>dataset about the recent trends in renewable energy adoption across various countries</strong>. Your [3] <strong>task is to identify the top three countries with the highest increase in solar energy usage over the last five years</strong>. Please present the findings in a [4] <strong>concise bullet-point list</strong>, using the data provided.
+</div>
+
+
 
 
