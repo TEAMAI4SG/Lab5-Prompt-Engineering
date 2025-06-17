@@ -117,10 +117,12 @@ Now it’s your turn! Please analyze the following prompt by identifying the pro
 Imagine you are a [1] **data analyst**. You have been given a [2] **dataset about the recent trends in renewable energy adoption across various countries**. Your [3] **task is to identify the top three countries with the highest increase in solar energy usage over the last five years**. Please present the findings in a [4] **concise bullet-point list**, using the data provided.
 
 <div style="border: 1px solid black; padding: 10px; width: 100%; font-family: Arial;">
-  <p><strong>[1]</strong></p>
-  <p><strong>[2]</strong></p>
-  <p><strong>[3]</strong></p>
-  <p><strong>[4]</strong></p>
+  <table>
+    <p><strong>[1]</strong></p>
+    <p><strong>[2]</strong></p>
+    <p><strong>[3]</strong></p>
+    <p><strong>[4]</strong></p>
+  </table>
 </div>
 
 
