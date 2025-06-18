@@ -172,6 +172,7 @@ Here’s an example to get you started (we’ve omitted the output for brevity, 
 
 **Prompt**: You are a [6] life skills teacher and you [3] need a lesson plan for your upcoming class. In a [1] bullet point format, [2] list some important skills that one needs to learn to effectively survive in the workplace. Be sure to explain each skill and give examples on how they are needed for the workplace. [7] Omit anything overly technical and have this lesson plan [4] aimed for students going to a variety of workplaces. 
 
+---
 
 Now it’s your turn! **Make a copy of your Colab file used in Lab 2a: Generating Text with OpenAI’s Models**.
 
