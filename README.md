@@ -151,7 +151,7 @@ Table 3. Revised prompt according to FACTOR elements
 
 ---
 
-## 1.3 Prompt Engineering for Social Good
+## 🛠️ 1.3 Prompt Engineering for Social Good
 
 Now that you’ve been introduced to some basic examples of prompt engineering, how might we connect this to the real world to build solutions for social good? Select one UN SDG and come up with a practical application of generative AI that is different from the example provided in class (ICW). Then, craft a prompt for this practical application, integrating the prompt engineering techniques we learned. Be sure to clearly indicate where you use each technique by placing the corresponding numbers in square brackets []!
 
@@ -188,6 +188,14 @@ Table 4. Writing prompt for UN SDGs
 As an advanced move (optional), consider how you might implement these strategies with Lab 2b, the image generation lab. Now try it out! Be careful of possible additional costs – as we saw before, generating images is more expensive than generating text.
 
 ---
+
+## 🧩 2.1 Tokenization? What’s That?
+
+**Tokenization** is a fundamental concept in utilizing AI language models, including those developed by OpenAI. It's the process of converting text into smaller pieces, called tokens, which the model can interpret and process.
+
+**Why is understanding tokenization important?** Different prompts consume different token amounts, which in turn cost us different amounts of money. Although text-based prompts often cost only a fraction of a cent, think about businesses which process thousands of prompts per hour. Eventually, these cost differences can accumulate, making it crucial to optimize token count.
+
+
 
 
 
