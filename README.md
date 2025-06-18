@@ -147,18 +147,46 @@ Using at least 3 FACTORS techniques, write a revised version of the prompt that 
 
 Revised Prompt: 
 
----
-
-
----
-
 Table 3. Revised prompt according to FACTOR elements
 
 ---
 
+## 1.3 Prompt Engineering for Social Good
+
+Now that you’ve been introduced to some basic examples of prompt engineering, how might we connect this to the real world to build solutions for social good? Select one UN SDG and come up with a practical application of generative AI that is different from the example provided in class (ICW). Then, craft a prompt for this practical application, integrating the prompt engineering techniques we learned. Be sure to clearly indicate where you use each technique by placing the corresponding numbers in square brackets []!
+
+Here are the **FACTORS** prompt engineering techniques from Part 2.1 for your reference: 
+
+1. **Format of Response** — specify the level of detail, the brevity, and overall format of the response you wish to receive. 
+2. **Action Words** – use action words throughout your prompt to guide the AI’s content generation.
+3. **Context** — offer background information to frame your prompt within a specific scenario/goal.
+4. **Tone and Formality** — define the style and seriousness appropriate for the intended audience.
+5. **Output** – provide an example output to illustrate your expectations.
+6. **Role** — clarify the model’s assumed identity, profession, expertise, etc to shape its response. 
+7. **Specific Items to Avoid** — Identify any content that should be excluded from the AI's responses.
+
+Here’s an example to get you started (we’ve omitted the output for brevity, but please include it for yours):
+
+**UN SDG**: #1 No Poverty
+**Usage**: Lesson plan writing to teach students practical skills for the workplace
+
+**Prompt**: You are a [6] life skills teacher and you [3] need a lesson plan for your upcoming class. In a [1] bullet point format, [2] list some important skills that one needs to learn to effectively survive in the workplace. Be sure to explain each skill and give examples on how they are needed for the workplace. [7] Omit anything overly technical and have this lesson plan [4] aimed for students going to a variety of workplaces. 
 
 
+Now it’s your turn! **Make a copy of your Colab file used in Lab 2a: Generating Text with OpenAI’s Models**.
 
+**UN SDG**: 
+**Usage**: 
+**Prompt**: 
+
+
+**Output from Colab**: 
+
+Table 4. Writing prompt for UN SDGs
+
+As an advanced move (optional), consider how you might implement these strategies with Lab 2b, the image generation lab. Now try it out! Be careful of possible additional costs – as we saw before, generating images is more expensive than generating text.
+
+---
 
 
 
