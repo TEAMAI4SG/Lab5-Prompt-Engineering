@@ -129,7 +129,31 @@ Table 1. Prompt analysis Part 1
 
 Here is a BAD example of prompt engineering by Bob, a student who wants to write a research paper about the pros and cons of working from home in 2024: 
 
-                                          *Write something about work from home*.
+*Write something about work from home*.
+
+Please state 3 reasons why it is not the most effective prompt for the desired output in **Table 2**. 
+**Reasons**:
+
+| [1] |
+|-----|
+| [2] |
+| [3] |
+
+Table 2. Prompt critique
+
+---
+
+Using at least 3 FACTORS techniques, write a revised version of the prompt that can give the model clearer instructions and analyze the FACTORs techniques used in your revised prompt in Table 3.
+
+Revised Prompt: 
+
+
+
+Table 3. Revised prompt according to FACTOR elements
+
+---
+
+
 
 
 
