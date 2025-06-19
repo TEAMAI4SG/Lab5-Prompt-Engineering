@@ -220,7 +220,7 @@ As an advanced move (optional), consider how you might implement these strategie
 
 |Table 8. Colab link|
 |:-------------------------------------|
-||
+|Link: |
 
 
 
