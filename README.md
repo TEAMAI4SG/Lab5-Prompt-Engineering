@@ -201,8 +201,26 @@ As an advanced move (optional), consider how you might implement these strategie
 |:-------------------------------------|
 |Sreenshot:|
 
+2. Since tokens are the currency of AI interactions, managing their usage is key to balancing cost and output quality. **Revise** the prompt you chose to use fewer tokens. Some strategies for doing this include including only essential information only, rephrasing for conciseness, and replacing longer words with shorter synonyms. Token use also varies across languages. Provide your revised prompt token analysis in **Table 6**.
 
 
+|Table 6. Revised prompt analysis Part 2|
+|:-------------------------------------|
+|Output from Revised Prompt:|
+
+
+3. Feed your revised prompt back into your code from **Table 1**. Paste the output below. Do you see any **differences** in quality between the new output and the old output? Provide your observation and reflections in **Table 7**.
+
+
+|Table 7. Reflections on prompt revision|
+|:-------------------------------------|
+|Differences in Quality:|
+
+4. Finally, please provide the link to your Colab code in Table 8 below.
+
+|Table 8. Colab link|
+|:-------------------------------------|
+||
 
 
 
