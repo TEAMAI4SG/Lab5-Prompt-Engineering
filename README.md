@@ -198,7 +198,7 @@ As an advanced move (optional), consider how you might implement these strategie
 1. Choose one of the prompts you wrote in the previous section from Table 4. Using the OpenAI tokenizer, calculate the number of tokens it corresponds to. In Table 5, provide a screenshot that includes the number of tokens, number of characters, and the color-coded token analysi
 
 |Table 5. Token analysis Part 1|
-|:------|
+|:-------------------------------------|
 
 
 
