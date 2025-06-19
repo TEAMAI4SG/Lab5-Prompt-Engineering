@@ -195,9 +195,10 @@ As an advanced move (optional), consider how you might implement these strategie
 
 **Why is understanding tokenization important?** Different prompts consume different token amounts, which in turn cost us different amounts of money. Although text-based prompts often cost only a fraction of a cent, think about businesses which process thousands of prompts per hour. Eventually, these cost differences can accumulate, making it crucial to optimize token count.
 
+1. Choose one of the prompts you wrote in the previous section from Table 4. Using the OpenAI tokenizer, calculate the number of tokens it corresponds to. In Table 5, provide a screenshot that includes the number of tokens, number of characters, and the color-coded token analysi
 
-
-
+|Table 5. Token analysis Part 1|
+|:------|
 
 
 
