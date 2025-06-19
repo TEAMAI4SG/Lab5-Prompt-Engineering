@@ -222,6 +222,27 @@ As an advanced move (optional), consider how you might implement these strategie
 |:-------------------------------------|
 |Link: |
 
+---
+
+## ✅ Congratulations, you have successfully finished the lab!
+Please submit your work as a PDF file with answers filled in Tables 1-8. 
+
+Please follow these steps before submitting:
+
+1. Update your Colab setting so that everyone in SJSU group can be a viewer;
+2. Please change your API key in your code to **“my-api-key-here”**
+
+---
+
+## 🔗 References
+
+- [Openai Examples](https://platform.openai.com/examples)
+- [THE 17 GOALS](https://sdgs.un.org/goals)
+- [Openai Tokenizer](https://platform.openai.com/tokenizer)
+- [MEDIUM - Why is GPT-3 15.77x more expensive for some languages](https://denyslinkov.medium.com/why-is-gpt-3-15-77x-more-expensive-for-certain-languages-2b19a4adc4bc)
+- [Openai Prompt-engineering guide](https://platform.openai.com/docs/guides/prompt-engineering) 
+- [Related resources fron the web](https://cookbook.openai.com/articles/related_resources)
+
 
 
 
