@@ -147,9 +147,12 @@ Using at least 3 FACTORS techniques, write a revised version of the prompt that 
 
 Revised Prompt: 
 
-Table 3. Revised prompt according to FACTOR elements
+|Table 3. Revised prompt according to FACTOR elements|
+|:-------------------------------------|
+|Revised Prompt:|
 
 ---
+
 
 ## 🛠️ 1.3 Prompt Engineering for Social Good
 
