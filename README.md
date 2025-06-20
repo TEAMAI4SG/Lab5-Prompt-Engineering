@@ -14,7 +14,7 @@ This lab delves into the world of AI tokenization, a cornerstone of language mod
 - **Understand Tokenization**: Comprehend the significance of tokenization in AI language processing and the impact of token economy on scalability and cost.
 - **Apply FACTORS**: Utilize the FACTORS mnemonic to engineer precise prompts, ensuring that each component — Format, Action words, Context, Tone, Output, Role, and Specific items to avoid is optimized to guide the AI's output towards actionable insights.
 - **Promote Social Good**: Integrate the principles of prompt engineering to address real-world problems, specifically focusing on the United Nations Sustainable Development Goals (SDGs), to conceptualize AI-driven solutions for societal benefit.
--**Evaluate and Refine**: Critically assess and refine prompts to reduce token usage without compromising on quality, enhancing your ability to create economically and ethically sound AI interactions.
+- **Evaluate and Refine**: Critically assess and refine prompts to reduce token usage without compromising on quality, enhancing your ability to create economically and ethically sound AI interactions.
 
 
 
