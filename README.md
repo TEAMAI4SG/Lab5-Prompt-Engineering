@@ -112,7 +112,7 @@ Let's delve deeper into this prompt’s construction to find where various promp
 
 By dissecting this prompt, we can better understand how each component contributes to creating a clear, focused, and effective request for AI-generated content. Remember, the quality of the input significantly influences the quality of the output.
 
-Now it’s your turn! Please analyze the following prompt by identifying the prompt technique being used at each bracketed number in Table 1. Identify which of the FACTOR element(s) are used and elaborate.
+Now it’s your turn! Please analyze the following prompt by identifying the prompt technique being used at each bracketed number in **Table 1**. Identify which of the FACTOR element(s) are used and elaborate.
 
 Imagine you are a [1] **data analyst**. You have been given a [2] **dataset about the recent trends in renewable energy adoption across various countries**. Your [3] **task is to identify the top three countries with the highest increase in solar energy usage over the last five years**. Please present the findings in a [4] **concise bullet-point list**, using the data provided.
 
