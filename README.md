@@ -155,7 +155,7 @@ Using at least 3 FACTORS techniques, write a revised version of the prompt that 
 
 ## 🛠️ 1.3 Prompt Engineering for Social Good
 
-Now that you’ve been introduced to some basic examples of prompt engineering, how might we connect this to the real world to build solutions for social good? Select one UN SDG and come up with a practical application of generative AI that is different from the example provided in class (ICW). Then, craft a prompt for this practical application, integrating the prompt engineering techniques we learned. Be sure to clearly indicate where you use each technique by placing the corresponding numbers in square brackets []!
+Now that you’ve been introduced to some basic examples of prompt engineering, how might we connect this to the real world to build solutions for social good? **Select one UN SDG and come up with a practical application of generative AI** that is different from the example provided in class (ICW). Then, **craft a prompt** for this practical application, integrating the prompt engineering techniques we learned. Be sure to clearly **indicate where you use each technique** by placing the corresponding numbers in square brackets []!
 
 Here are the **FACTORS** prompt engineering techniques from Part 2.1 for your reference: 
 
