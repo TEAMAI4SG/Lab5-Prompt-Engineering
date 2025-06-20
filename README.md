@@ -56,7 +56,7 @@ Here are some basic prompt engineering techniques **(FACTORS)**:
 
 ---
 
-## 🕺 Let’s Break it Down
+## 🕺 1.2 Let’s Break it Down
 
 Here is a sample prompt for a financial analysis of 2024 cryptocurrency trends:
 
