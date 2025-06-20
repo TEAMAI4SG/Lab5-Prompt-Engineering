@@ -145,7 +145,6 @@ Table 2. Prompt critique
 
 Using at least 3 FACTORS techniques, write a revised version of the prompt that can give the model clearer instructions and analyze the FACTORs techniques used in your revised prompt in Table 3.
 
-Revised Prompt: 
 
 |Table 3. Revised prompt according to FACTOR elements|
 |:-------------------------------------|
