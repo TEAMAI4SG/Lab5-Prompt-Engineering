@@ -34,7 +34,7 @@ $0.50 - $1 (View your OpenAI usage [here](https://platform.openai.com/usage))
 
 - Your Lab2: Generating Text with OpenAI's Models  
 - [Examples - OpenAI API](https://platform.openai.com/examples)
-- [THE 17 GOALS| Sustainable Development](https://sdgs.un.org/goals)
+- [THE 17 GOALS | Sustainable Development](https://sdgs.un.org/goals)
 - [Tokenizer - OpenAI Platform](https://platform.openai.com/tokenizer)
 
 
