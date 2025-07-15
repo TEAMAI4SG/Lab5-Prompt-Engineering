@@ -201,7 +201,7 @@ As an advanced move (optional), consider how you might implement these strategie
 
 |Table 5. Token analysis Part 1|
 |:-------------------------------------|
-|Sreenshot:|
+|Screenshot:|
 
 2. Since tokens are the currency of AI interactions, managing their usage is key to balancing cost and output quality. **Revise** the prompt you chose to use fewer tokens. Some strategies for doing this include including only essential information only, rephrasing for conciseness, and replacing longer words with shorter synonyms. Token use also varies across languages. Provide your revised prompt token analysis in **Table 6**.
 
